@@ -72,7 +72,7 @@ chown ubuntu:ubuntu script.sh
 find /var/log -name "*.log" -mtime +7
 ```
 🔍 Locate files based on name, date, type, etc. Great for automating cleanup or audits.
-
+https://www.geeksforgeeks.org/linux-unix/find-command-in-linux-with-examples/
 ---
 
 ### 9. `curl`  
