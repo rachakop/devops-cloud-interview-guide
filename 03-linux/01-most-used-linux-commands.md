@@ -7,7 +7,7 @@ This question aims to assess your hands-on experience with Linux, focusing on di
 ## ✅ Answer  
 Here are 10 Linux commands I use regularly, excluding the basics like `cd`, `ls`, and `pwd`:
 
----
+https://www.geeksforgeeks.org/linux-unix/sed-command-in-linux-unix-with-examples/---
 
 ### 1. `tail -f`  
 ```bash
