@@ -1,7 +1,7 @@
 ## Your App Works with ClusterIP but Fails with Ingress – How Do You Troubleshoot It?
 
 
-k8s service gets vitual ip from cluster IP whenever cluster is created its created with some ip range, so with in that range it assigns some ip to services and pods.
+important::::  k8s service gets vitual ip from cluster IP whenever cluster is created its created with some ip range, so with in that range it assigns some ip to services and pods.
 ingress controller is nothing but a deployment + service, so based on the service typ it also gets an virtual ip but mostly 
 type will be allocated as load balancer so ip comes from cloud provider not from kubernetes, cloud assigns public or private ip.
 
